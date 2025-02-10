@@ -17,7 +17,7 @@
 ### Non Primitive Data Types
 - String
 - Array
-- Class -> Blueprint for creating objects, with state (member variables) and behavior (methods).
+- Class -> Blueprint fo r creating objects, with state (member variables) and behavior (methods).
 - Interface -> It is a collection of abstract methods.
 - Enum -> A set of named values (days of a week).
 - Record -> To define a "carrier" of data. (Folder of data)
